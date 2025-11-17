@@ -1,7 +1,7 @@
 # digitransit-geocode
 Simple python script for geocoding Finnish addresses using the Digitransit API
 
-Geocode addresses using Digitransit API. Coordinates are output in GK25FIN (EPSG:3879) by default.
+Coordinates are output in GK25FIN (EPSG:3879) by default.
 
 Steps:
 1. Set INPUT_CSV to your source CSV file path
